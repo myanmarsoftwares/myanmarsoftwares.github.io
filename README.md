@@ -1,3 +1,5 @@
+Softwares Developed by Myanmar Software Team
+
 အသုံးဝင်တဲ့မြန်မာ software များ
 ---
 
@@ -10,10 +12,11 @@
 ![Software Icon](engmyanmarlitedictionary.png)
 
 
-## Skills
+## Skills in Our Team
 
-- Programming Languages: Javascript, Kotlin
-- Web Technologies: Nodejs, Android, Reactjs
+- Programming Languages: Javascript, Kotlin, C#
+- Web Technologies: Nodejs, Reactjs, .Net Core, Wordpress
+- Mobile Technologies: Android,IOS
+- Server Technologies: Docker, Kubernetes, Linux
 
 
-Thanks for visiting! 😊
