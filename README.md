@@ -7,7 +7,7 @@ Softwares Developed by Myanmar Software Team
 ### Version 0.4.9
 
 - **Description:** English to Myanmar / Myanmar to English Lite Dictionary for Windows OS.
-- **Download for Windows arch-64:** [Download exe](https://github.com/yannainglynn/yannainglynn.github.io/raw/main/Eng-Myanmar%20Lite%20Dictionary%20Setup%200.4.9.exe)
+- **Download for Windows arch-64:** [Download exe](https://github.com/myanmarsoftwares/myanmarsoftwares.github.io/raw/main/Eng-Myanmar%20Lite%20Dictionary%20Setup%200.4.9.exe)
 
 
 ![Software Icon](engmyanmarlitedictionary.png)
