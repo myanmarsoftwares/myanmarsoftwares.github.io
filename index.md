@@ -11,7 +11,7 @@ Softwares Developed by Myanmar Software Team
 - **Download for Windows arch-64:** [Download exe](https://github.com/myanmarsoftwares/myanmarsoftwares.github.io/raw/main/Eng-Myanmar%20Lite%20Dictionary%20Setup%200.4.9.exe)
 
 
-![Software Icon](engmyanmarlitedictionary.png)
+![Software Icon](engmyanmarlitedictionary.png){: width="100" height="100"}
 
 
 ## Skills in Our Team
