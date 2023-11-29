@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="dkadba-m1r6Qhu8hJ9GZNc1jzE1OZlDwPNQBfY-rzCA" />
 Softwares Developed by Myanmar Software Team
 
 အသုံးဝင်တဲ့မြန်မာ software များ
