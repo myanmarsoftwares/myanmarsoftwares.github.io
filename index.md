@@ -1,9 +1,3 @@
-Softwares Developed by Myanmar Software Team
----
-
-အသုံးဝင်တဲ့မြန်မာ software များ
----
-
 ### Eng-Myanmar Lite Dictionary
 ### Version 0.4.9
 ![Software Icon](engmyanmarlitedictionary.png){: width="100" height="100"}
